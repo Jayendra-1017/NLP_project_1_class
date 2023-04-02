@@ -74,9 +74,9 @@ html_temp = """
    <div class="" style="background-color:blue;" >
    <div class="clearfix">           
    <div class="col-md-12">
-   <center><p style="font-size:40px;color:white;margin-top:10px;">Poornima Institute of Engineering & Technology</p></center> 
+   <center><p style="font-size:40px;color:white;margin-top:10px;">ACEHACKERS 2.0 HACKHTON</p></center> 
    <center><p style="font-size:30px;color:white;margin-top:10px;">Department of Computer Engineering</p></center> 
-   <center><p style="font-size:25px;color:white;margin-top:10px;"Summer Internship 2022</p></center> 
+   
    </div>
    </div>
    </div>
@@ -92,13 +92,13 @@ if st.button("Review Analysis"):
   st.success('Model has predicted {}'.format(result))
       
 if st.button("About"):
-  st.subheader("Developed by Jayendra sharma")
+  st.subheader("Developed by Jayendra sharma and kanchan")
   st.subheader("Student , Department of Computer Engineering")
 html_temp = """
    <div class="" style="background-color:orange;" >
    <div class="clearfix">           
    <div class="col-md-12">
-   <center><p style="font-size:20px;color:white;margin-top:10px;">Summer Internship 2022 Project Deployment</p></center> 
+   <center><p style="font-size:20px;color:white;margin-top:10px;"> Project Deployment</p></center> 
    </div>
    </div>
    </div>
