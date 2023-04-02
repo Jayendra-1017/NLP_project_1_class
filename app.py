@@ -74,7 +74,7 @@ html_temp = """
    <div class="" style="background-color:blue;" >
    <div class="clearfix">           
    <div class="col-md-12">
-   <center><p style="font-size:40px;color:white;margin-top:10px;">ACEHACKERS 2.0 HACKHTON</p></center> 
+   <center><p style="font-size:40px;color:white;margin-top:10px;">ACEHACK 2.0 HACKHTON</p></center> 
    <center><p style="font-size:30px;color:white;margin-top:10px;">Department of Computer Engineering</p></center> 
    
    </div>
